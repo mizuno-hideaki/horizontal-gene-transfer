@@ -9,7 +9,7 @@
 use DBI;
 use File::Find;
 use File::Basename;
-#use Smart::Comments '###';
+
 require "/home/mizuno_progno/lib/bioinfo.pm";
 require "/home/mizuno_progno/lib/general.pm";
 require "/home/mizuno_progno/lib/math.pm";
