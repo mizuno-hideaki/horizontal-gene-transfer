@@ -31,8 +31,8 @@ sub main
   while( <LIST> )
    {
     my @ary = &parse_line( $_ );
-	$ary[ 0 ] =~ /\D/ && next;
-	$ary[ 1 ] || next;
+    $ary[ 0 ] =~ /\D/ && next;
+    $ary[ 1 ] || next;
     my $label = sprintf( "F_%d--R_%d", @ary[ 0, 0 ] );
     my $name  = sprintf( "%d_%s", @ary[ 0, 1 ] );
     $name =~ s/\W/_/g;
@@ -66,7 +66,7 @@ sub output_seq
    {
     my $header = <IN>;
     my $seq    = <IN>;
-	$log[ 0 ]++;
+    $log[ 0 ]++;
     chomp( $seq );
     $strand eq '-' && ( $seq = &complementary_seq( $seq ) );
     my @ary    = &parse_line( $header );
@@ -108,9 +108,9 @@ sub load_blast_res
    {### %
     my @ary = &parse_line( $_ );
     $BLAST{ $ary[ 1 ] }{ 'SCORE' }  = $ary[ 2 ];
-	$BLAST{ $ary[ 1 ] }{ 'LENGTH' } = $ary[ 3 ];
+    $BLAST{ $ary[ 1 ] }{ 'LENGTH' } = $ary[ 3 ];
     $BLAST{ $ary[ 1 ] }{ 'STRAND' } = $ary[ 8 ] < $ary[ 9 ] ? '+' : '-';
    }
   close BLAST;
  }
-
+ 
