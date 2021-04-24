@@ -2,10 +2,10 @@
 
 ############################################################
 #
-#  creator: Hideaki Mizuno
-#           https://researchmap.jp/mizuno/
-#  creator: Atsushi Kurabayashi
-#  created: 2010/04/11
+# Contributor(s):
+#   Hideaki Mizuno - https://researchmap.jp/mizuno/
+#   Atsushi Kurabayashi -
+# Created: 2010/04/11
 #
 ############################################################
 use DBI;
