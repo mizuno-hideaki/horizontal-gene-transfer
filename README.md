@@ -7,3 +7,5 @@ A script for aligning repeat sequences
 # Contributor(s)
 ## Hideaki Mizuno: https://researchmap.jp/mizuno/
 ## Atsushi Kurabayashi
+
+# Citation(s)
