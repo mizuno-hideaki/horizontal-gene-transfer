@@ -1,4 +1,4 @@
-# Scripts
+# Script(s)
 ## remove_primer_sequences.pl
 A script for trimming primer sequences from raw read data.
 ## align_repeat_sequences.pl
