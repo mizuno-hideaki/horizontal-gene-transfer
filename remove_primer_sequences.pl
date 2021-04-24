@@ -3,6 +3,8 @@
 ############################################################
 #
 #  creator: Hideaki Mizuno
+#           https://researchmap.jp/mizuno/
+#  creator: Atsushi Kurabayashi
 #  created: 2010/04/11
 #
 ############################################################
