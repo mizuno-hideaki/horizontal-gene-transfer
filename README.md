@@ -1,6 +1,8 @@
-# horizontal-gene-transfer
+#
 
-Contributor: Hideaki Mizuno | https://researchmap.jp/mizuno/
+
+# Contributor
+## Contributor: Hideaki Mizuno | https://researchmap.jp/mizuno/
 
 Contributor: Atsushi Kurabayashi | ***
 
