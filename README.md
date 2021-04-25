@@ -1,4 +1,5 @@
-# Script(s)
+
+# Script(s) used in the publication "Geographically dependent horizontal gene transfer from snakes to frogs." .
 ## remove_primer_sequences.pl
 A script for trimming primer sequences from raw read data.
 ## align_repeat_sequences.pl
