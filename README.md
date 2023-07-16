@@ -1,4 +1,4 @@
-# Script(s) used in the publication "Geographically dependent horizontal gene transfer from snakes to frogs.".
+# Script(s) used in the publication "Geography-Dependent Horizontal Gene Transfer from Vertebrate Predators to Their Prey.".
 PubMed: https://pubmed.ncbi.nlm.nih.gov/35417559/
 
 ## remove_primer_sequences.pl
