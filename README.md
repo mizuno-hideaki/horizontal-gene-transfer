@@ -1,4 +1,3 @@
-
 # Script(s) used in the publication "Geographically dependent horizontal gene transfer from snakes to frogs.".
 PubMed: https://pubmed.ncbi.nlm.nih.gov/35417559/
 
